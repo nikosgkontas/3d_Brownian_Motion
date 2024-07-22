@@ -1,4 +1,4 @@
-# RandomWalk_3D
+# 3D Brown Motion
 Simulating a 3D Random Walk with Normally Distributed Steps
 <br>
 <br>
